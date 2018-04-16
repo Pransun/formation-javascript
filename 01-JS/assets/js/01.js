@@ -35,7 +35,7 @@ console.log(typeof Age);
 
 
     /*-------------------------------------------------------------------------------------------------\
-    |                LA PORTEE DES VARIABLES                                                           |
+    |                                  LA PORTEE DES VARIABLES                                         |
     |                                                                                                  |   
     | Les variables déclarées directement à la racine du fichier JS sont appelées variables GLOBALES.  |
     | Elles sont disponible dans l'ensemble de votre document, y compris dans les fonctions.           |
