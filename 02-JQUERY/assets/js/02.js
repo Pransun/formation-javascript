@@ -26,5 +26,10 @@
  });
 
 
+// -- Réinitialisation du Formulaire
+$('submit').click(function() {
+    $(contact)[0].reset();
 
-                       
+});
+
+    
